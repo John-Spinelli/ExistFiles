@@ -2,8 +2,9 @@ This line was in the original. The following lines are numbers:
 1
 2
 11111113
+5555
 4
-5
+0000
 6
 This was made in main after branch.
 8
